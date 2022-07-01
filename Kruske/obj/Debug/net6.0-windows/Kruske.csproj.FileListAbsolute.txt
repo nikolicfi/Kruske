@@ -1,0 +1,17 @@
+C:\Users\filip\Desktop\Kruske\Kruske\bin\Debug\net6.0-windows\Kruske.exe
+C:\Users\filip\Desktop\Kruske\Kruske\bin\Debug\net6.0-windows\Kruske.deps.json
+C:\Users\filip\Desktop\Kruske\Kruske\bin\Debug\net6.0-windows\Kruske.runtimeconfig.json
+C:\Users\filip\Desktop\Kruske\Kruske\bin\Debug\net6.0-windows\Kruske.dll
+C:\Users\filip\Desktop\Kruske\Kruske\bin\Debug\net6.0-windows\Kruske.pdb
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.Form1.resources
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.AssemblyInfo.cs
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.dll
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\refint\Kruske.dll
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.pdb
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\Kruske.genruntimeconfig.cache
+C:\Users\filip\Desktop\Kruske\Kruske\obj\Debug\net6.0-windows\ref\Kruske.dll
